@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Christian Science Bible Lesson Subjects 1.5\n"
+"POT-Creation-Date: 2017-05-30 01:23-0700\n"
+"PO-Revision-Date: 2017-05-30 01:23-0700\n"
+"Last-Translator: Gabriel Serafini <gserafini@gmail.com>\n"
+"Language-Team: Serafini Studios <gserafini@gmail.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cs-subject-of-the-week.php:39
+msgid "God"
+msgstr "Dios"
+
+#: cs-subject-of-the-week.php:40
+msgid "Sacrament"
+msgstr "Sacramento"
+
+#: cs-subject-of-the-week.php:41
+msgid "Life"
+msgstr "Vida"
+
+#: cs-subject-of-the-week.php:42
+msgid "Truth"
+msgstr "Verdad"
+
+#: cs-subject-of-the-week.php:43
+msgid "Love"
+msgstr "Amor"
+
+#: cs-subject-of-the-week.php:44
+msgid "Spirit"
+msgstr "Espíritu"
+
+#: cs-subject-of-the-week.php:45
+msgid "Soul"
+msgstr "Alma"
+
+#: cs-subject-of-the-week.php:46
+msgid "Mind"
+msgstr "Mente"
+
+#: cs-subject-of-the-week.php:47 cs-subject-of-the-week.php:71
+msgid "Christ Jesus"
+msgstr "Cristo Jesús"
+
+#: cs-subject-of-the-week.php:48
+msgid "Man"
+msgstr "El hombre"
+
+#: cs-subject-of-the-week.php:49
+msgid "Substance"
+msgstr "La sustancia"
+
+#: cs-subject-of-the-week.php:50
+msgid "Matter"
+msgstr "La materia"
+
+#: cs-subject-of-the-week.php:51
+msgid "Reality"
+msgstr "La realidad"
+
+#: cs-subject-of-the-week.php:52
+msgid "Unreality"
+msgstr "La irrealidad"
+
+#: cs-subject-of-the-week.php:53
+msgid "Are Sin, Disease, and Death Real?"
+msgstr "¿Son reales el pecado, la enfermedad y la muerte?"
+
+#: cs-subject-of-the-week.php:54
+msgid "Doctrine of Atonement"
+msgstr "Doctrina de la expiación"
+
+#: cs-subject-of-the-week.php:55
+msgid "Probation After Death"
+msgstr "Probación después de la muerte"
+
+#: cs-subject-of-the-week.php:56
+msgid "Everlasting Punishment"
+msgstr "El castigo eterno"
+
+#: cs-subject-of-the-week.php:57
+msgid "Adam and Fallen Man"
+msgstr "Adán y el hombre caído"
+
+#: cs-subject-of-the-week.php:58
+msgid "Mortals and Immortals"
+msgstr "Los mortales y los inmortales"
+
+#: cs-subject-of-the-week.php:59
+msgid "Soul and Body"
+msgstr "Alma y cuerpo"
+
+#: cs-subject-of-the-week.php:60
+msgid ""
+"Ancient and Modern Necromancy, <i>alias</i> Mesmerism and Hypnotism, "
+"Denounced"
+msgstr ""
+"Denuncia de la nigromancia antigua y moderna, alias mesmerismo e hipnotismo"
+
+#: cs-subject-of-the-week.php:61
+msgid "God the Only Cause and Creator"
+msgstr "Dios, causa y creador único"
+
+#: cs-subject-of-the-week.php:62
+msgid "God the Preserver of Man"
+msgstr "Dios, preservador del hombre"
+
+#: cs-subject-of-the-week.php:63
+msgid "Is the Universe, Including Man, Evolved by Atomic Force?"
+msgstr "¿Evolucionó el universo, incluso el hombre, mediante fuerza atómica?"
+
+#: cs-subject-of-the-week.php:64
+msgid "Christian Science"
+msgstr "Ciencia Cristiana"
+
+#: cs-subject-of-the-week.php:116
+msgid "<strong>Join us for a special Thanksgiving Service!</strong><br />"
+msgstr ""
+"<strong>Únete a nosotros para un servicio especial de Acción de Gracias!</"
+"strong><br />"
+
+#: cs-subject-of-the-week.php:117
+msgid ""
+"Christian Science Churches in the United States will be holding a service on "
+"Thanksgiving Day, November&nbsp;"
+msgstr ""
+"Las iglesias de la Ciencia Cristiana en los Estados Unidos tendrán un "
+"servicio el Día de Acción de Gracias, noviembre&nbsp;"
+
+#: cs-subject-of-the-week.php:143
+msgid "n/j/Y"
+msgstr "j/n/Y"
+
+#: cs-subject-of-the-week.php:149
+msgid ""
+"<li class=\"stp_cs_bible_lesson_topics_more_info_link\"><a href=\"http://"
+"biblelesson.christianscience.com\" target=\"_blank\">More info about the "
+"Bible Lesson &raquo;</a></li>"
+msgstr ""
+"<li class=\"stp_cs_bible_lesson_topics_more_info_link\"><a href=\"http://es."
+"biblelesson.christianscience.com\" target=\"_blank\">Más información sobre "
+"la lección bíblica&raquo;</a></li>"
+
+#: cs-subject-of-the-week.php:201
+msgid "Donate"
+msgstr "Donar"
+
+#: cs-subject-of-the-week.php:221
+msgid "Show upcoming Bible Lesson topics"
+msgstr "Mostrar los próximos temas de la lección bíblica"
+
+#: cs-subject-of-the-week.php:223
+msgid "CS Bible Lesson Topics"
+msgstr "CS Temas de la lección bíblica"
+
+#: cs-subject-of-the-week.php:237 cs-subject-of-the-week.php:279
+msgid "Upcoming Bible Lessons"
+msgstr "Próximas lecciones bíblicas"
+
+#: cs-subject-of-the-week.php:238 cs-subject-of-the-week.php:280
+msgid "3"
+msgstr "3"
+
+#: cs-subject-of-the-week.php:239 cs-subject-of-the-week.php:281
+msgid "30"
+msgstr "30"
+
+#: cs-subject-of-the-week.php:286
+msgid "Title:"
+msgstr "Título:"
+
+#: cs-subject-of-the-week.php:289
+msgid "Number of upcoming Bible lesson topics to display:"
+msgstr "Número de próximos temas de la lección bíblica que se mostrarán:"
+
+#: cs-subject-of-the-week.php:292
+msgid "Display more info link"
+msgstr "Mostrar más información"
+
+#: cs-subject-of-the-week.php:293
+msgid ""
+"<a href=\"http://biblelesson.christianscience.com\" target=\"_blank\">More "
+"info about the Bible Lesson</a></p>"
+msgstr ""
+"<a href=\"http://es.biblelesson.christianscience.com\" target=\"_blank\">Más "
+"información sobre la lección bíblica</a></p>"
+
+#: cs-subject-of-the-week.php:295
+msgid "Special Thanksgiving day message:"
+msgstr "Mensaje especial del Día de Acción de Gracias:"
+
+#: cs-subject-of-the-week.php:298
+msgid "Days in advance to display message:<br /> (Default = 30, 0 to disable)"
+msgstr ""
+"Días de anticipación para mostrar el mensaje:<br /> (Por defecto = 30, 0 "
+"para deshabilitar)"

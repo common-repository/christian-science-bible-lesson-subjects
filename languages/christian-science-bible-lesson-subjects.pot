@@ -1,0 +1,182 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Christian Science Bible Lesson Subjects 1.5\n"
+"POT-Creation-Date: 2017-05-30 01:23-0700\n"
+"PO-Revision-Date: 2017-05-30 00:15-0700\n"
+"Last-Translator: Gabriel Serafini <gserafini@gmail.com>\n"
+"Language-Team: Serafini Studios <gserafini@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cs-subject-of-the-week.php:38
+msgid "God"
+msgstr ""
+
+#: cs-subject-of-the-week.php:39
+msgid "Sacrament"
+msgstr ""
+
+#: cs-subject-of-the-week.php:40
+msgid "Life"
+msgstr ""
+
+#: cs-subject-of-the-week.php:41
+msgid "Truth"
+msgstr ""
+
+#: cs-subject-of-the-week.php:42
+msgid "Love"
+msgstr ""
+
+#: cs-subject-of-the-week.php:43
+msgid "Spirit"
+msgstr ""
+
+#: cs-subject-of-the-week.php:44
+msgid "Soul"
+msgstr ""
+
+#: cs-subject-of-the-week.php:45
+msgid "Mind"
+msgstr ""
+
+#: cs-subject-of-the-week.php:46 cs-subject-of-the-week.php:70
+msgid "Christ Jesus"
+msgstr ""
+
+#: cs-subject-of-the-week.php:47
+msgid "Man"
+msgstr ""
+
+#: cs-subject-of-the-week.php:48
+msgid "Substance"
+msgstr ""
+
+#: cs-subject-of-the-week.php:49
+msgid "Matter"
+msgstr ""
+
+#: cs-subject-of-the-week.php:50
+msgid "Reality"
+msgstr ""
+
+#: cs-subject-of-the-week.php:51
+msgid "Unreality"
+msgstr ""
+
+#: cs-subject-of-the-week.php:52
+msgid "Are Sin, Disease, and Death Real?"
+msgstr ""
+
+#: cs-subject-of-the-week.php:53
+msgid "Doctrine of Atonement"
+msgstr ""
+
+#: cs-subject-of-the-week.php:54
+msgid "Probation After Death"
+msgstr ""
+
+#: cs-subject-of-the-week.php:55
+msgid "Everlasting Punishment"
+msgstr ""
+
+#: cs-subject-of-the-week.php:56
+msgid "Adam and Fallen Man"
+msgstr ""
+
+#: cs-subject-of-the-week.php:57
+msgid "Mortals and Immortals"
+msgstr ""
+
+#: cs-subject-of-the-week.php:58
+msgid "Soul and Body"
+msgstr ""
+
+#: cs-subject-of-the-week.php:59
+msgid "Ancient and Modern Necromancy, <i>alias</i> Mesmerism and Hypnotism, Denounced"
+msgstr ""
+
+#: cs-subject-of-the-week.php:60
+msgid "God the Only Cause and Creator"
+msgstr ""
+
+#: cs-subject-of-the-week.php:61
+msgid "God the Preserver of Man"
+msgstr ""
+
+#: cs-subject-of-the-week.php:62
+msgid "Is the Universe, Including Man, Evolved by Atomic Force?"
+msgstr ""
+
+#: cs-subject-of-the-week.php:63
+msgid "Christian Science"
+msgstr ""
+
+#: cs-subject-of-the-week.php:115
+msgid "<strong>Join us for a special Thanksgiving Service!</strong><br />"
+msgstr ""
+
+#: cs-subject-of-the-week.php:116
+msgid "Christian Science Churches in the United States will be holding a service on Thanksgiving Day, November&nbsp;"
+msgstr ""
+
+#: cs-subject-of-the-week.php:151
+msgid "<li class=\"stp_cs_bible_lesson_topics_more_info_link\"><a href=\"http://biblelesson.christianscience.com\" target=\"_blank\">More info about the Bible Lesson &raquo;</a></li>"
+msgstr ""
+
+#: cs-subject-of-the-week.php:203
+msgid "Donate"
+msgstr ""
+
+#: cs-subject-of-the-week.php:223
+msgid "Show upcoming Bible Lesson topics"
+msgstr ""
+
+#: cs-subject-of-the-week.php:225
+msgid "CS Bible Lesson Topics"
+msgstr ""
+
+#: cs-subject-of-the-week.php:239 cs-subject-of-the-week.php:281
+msgid "Upcoming Bible Lessons"
+msgstr ""
+
+#: cs-subject-of-the-week.php:240 cs-subject-of-the-week.php:282
+msgid "3"
+msgstr ""
+
+#: cs-subject-of-the-week.php:241 cs-subject-of-the-week.php:283
+msgid "30"
+msgstr ""
+
+#: cs-subject-of-the-week.php:288
+msgid "Title:"
+msgstr ""
+
+#: cs-subject-of-the-week.php:291
+msgid "Number of upcoming Bible lesson topics to display:"
+msgstr ""
+
+#: cs-subject-of-the-week.php:294
+msgid "Display more info link"
+msgstr ""
+
+#: cs-subject-of-the-week.php:295
+msgid "<a href=\"http://biblelesson.christianscience.com\" target=\"_blank\">More info about the Bible Lesson</a></p>"
+msgstr ""
+
+#: cs-subject-of-the-week.php:297
+msgid "Special Thanksgiving day message:"
+msgstr ""
+
+#: cs-subject-of-the-week.php:300
+msgid "Days in advance to display message:<br /> (Default = 30, 0 to disable)"
+msgstr ""
