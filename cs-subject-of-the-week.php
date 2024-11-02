@@ -6,7 +6,7 @@ Description: Display upcoming Christian Science Bible Lesson subjects in a widge
 Donate URI: http://bit.ly/cs-bible-lesson-plugin-donation
 Author: Gabriel Serafini (ShareThePractice.org)
 Author URI: http://sharethepractice.org/
-Version: 1.9.1
+Version: 2.0
 Text-Domain: christian-science-bible-lesson-subjects
 Domain Path: /languages/
 
@@ -75,7 +75,11 @@ function stp_getSubject($date_to_use='now') {
 
 	// Get the lesson for the upcoming next Sunday for any given date
     // Use strftime('%U, ...) not date("W", ...) in order to get weeks of the year using Sunday as starting day, not Monday
-	$week_num_sun = (int) strftime('%U', strtotime('next Sunday ' . $date_to_use));
+
+	$calendar = IntlCalendar::createInstance();
+	$calendar->setFirstDayOfWeek(IntlCalendar::DOW_SUNDAY);
+	$calendar->setTime(strtotime($date_to_use) * 1000);
+	$week_num_sun = IntlDateFormatter::formatObject($calendar, 'w');
 
 	return $cs_lesson_subjects[$week_num_sun];
 
@@ -254,10 +258,16 @@ class STP_CS_Bible_Lesson_Topics extends WP_Widget {
 	/**
 	 * Set up widget options
 	 */
-	function STP_CS_Bible_Lesson_Topics() {
+	public function __construct() {
+
 		$widget_ops = array('classname' => 'widget_text', 'description' => __('Show upcoming Bible Lesson topics', 'christian-science-bible-lesson-subjects'));
 		$control_ops = array('width' => 200, 'height' => 90);
-		$this->WP_Widget('widget-stpcslessonsubject', __('CS Bible Lesson Topics', 'christian-science-bible-lesson-subjects'), $widget_ops, $control_ops);
+
+		parent::__construct(
+			'widget-stpcslessonsubject', 
+			__('CS Bible Lesson Topics', 'christian-science-bible-lesson-subjects'), 
+			$widget_ops, 
+			$control_ops);
 	}
 
 	/**

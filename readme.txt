@@ -4,8 +4,8 @@ Donate link: http://bit.ly/cs-bible-lesson-plugin-donation
 Tags: cs, christian science, subjects, bible lesson, church, csps, widget, sidebar, plugin
 Requires at least: 2.7
 Requires PHP: 5.3
-Tested up to: 6.5
-Stable tag: 1.9.1
+Tested up to: 6.7
+Stable tag: 2.0
 
 Provides configurable widget and shortcode for displaying upcoming weekly Christian Science Bible Lesson subjects.
 
@@ -121,6 +121,12 @@ Yes, use the contact form on the ShareThePractice.org [website](http://sharethep
 2. Output of widget in a sidebar
 
 == Changelog ==
+
+= 2.0 =
+* Release date: October 31, 2024
+* Fix for PHP 8.2 - removed deprecated use of strftime
+* Fix for PHP 8.2 - refactored how to instantiate WP_Widget class
+* Tested up to WordPress 6.7
 
 = 1.9.1 =
 * Release date: March 11, 2024
